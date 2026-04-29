@@ -8,6 +8,6 @@
   <path d="M 150 180 Q 200 220 250 180" stroke="#fff" stroke-width="3" fill="none"/>
   <text x="200" y="260" text-anchor="middle" font-size="20" fill="white" font-weight="bold">Happy Cat</text>
   <script type="text/javascript">
-    alert('document.cookie');
+    alert('document.domain');
   </script>
 </svg>
